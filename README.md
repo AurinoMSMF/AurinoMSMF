@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AurinoMSMF
 - 👀 I’m interested in general programming.
-- 🌱 I’m currently learning Python, Java and lil bit of C.
+- 🌱 I’m currently learning Shell, Python and lil bit of Javascript.
 - 💞️ I’m looking to collaborate on anything that can make me grow in knowledge.
 - 📫 How to reach me aurinodoc@gmail.com.
 
