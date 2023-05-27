@@ -1,4 +1,4 @@
-- Hi, I’m @AurinoMSMF
+<h1> Hi, I’m Aurino</h1>
 - I’m interested in general programming.
 - I’m currently learning PHP, Python and Javascript.
 - I’m looking to collaborate on anything that can make me grow in knowledge.
