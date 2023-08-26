@@ -1,4 +1,4 @@
-### Olá, eu sou o Aurino 🖐️
+## Olá, eu sou o Aurino 🖐️
 ![Aurino's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurinoMSMF&theme=dracula&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurinoMSMF&hide_progress=true&theme=dracula)
