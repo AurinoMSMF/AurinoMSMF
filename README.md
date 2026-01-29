@@ -8,4 +8,4 @@
 #### Mas gosto de tecnologia e programação como um todo.
 
 #### Estou aberto a colaborar com qualquer projeto que me faça crescer em conhecimento.
-#### [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aurinodoc@gmail.com)
+#### [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aurinomanoel@proton.me)
